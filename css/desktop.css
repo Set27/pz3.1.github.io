@@ -127,6 +127,7 @@ nav {
     right: 0px;
     top: -30px;
     height: calc(100% + 60px);
+    max-height: 600px;
   }
 
   .content-img.entrance-doors
@@ -135,6 +136,7 @@ nav {
     right: 0px;
     top: -30px;
     height: calc(100% + 60px);
+    max-height: 600px;
   }
 
   .content-img.interior-doors
@@ -143,6 +145,7 @@ nav {
     left: 0px;
     top: -30px;
     height: calc(100% + 60px);
+    max-height: 600px;
   }
 
   #interior-doors .description-container {
