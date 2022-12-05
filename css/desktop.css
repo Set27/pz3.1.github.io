@@ -90,6 +90,7 @@ nav {
 
 .slider-wrapper {
   position: relative;
+  min-height: 590px;
 }
 
 .content-wrapper {
@@ -310,9 +311,9 @@ button:focus {
 }
 
 .review-wrapper {
+  min-height: 590px;
   margin: 100px auto;
   padding: 55px 140px 47px;
-  height: 590px;
   flex-direction: column;
   align-items: center;
   color: black;
@@ -353,9 +354,9 @@ button:focus {
 
 .review-text {
   padding: 20px 0;
-  height: 231px;
+  min-height: 231px;
   border-bottom: 1px solid rgba(153, 152, 152, 0.4);
-  overflow: auto;
+  overflow: none;
 }
 
 .form-wrapper {
